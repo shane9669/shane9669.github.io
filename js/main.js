@@ -55,7 +55,7 @@ jQuery(function ($) {
         // INJECT CSS
         var css = document.createElement("style");
         css.type = "text/css";
-        css.innerHTML = ".typewrite > .intro__cursor { border-right: 0.08em solid #007bff}";
+        css.innerHTML = ".typewrite > .intro__cursor { border-right: 0.08em solid #990000}";
         document.body.appendChild(css);
         // INJECT CSSs
     };
